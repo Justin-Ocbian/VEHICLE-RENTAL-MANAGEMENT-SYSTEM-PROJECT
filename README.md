@@ -6,3 +6,4 @@ Steps to open the System
 4.Inside Xampp, you'll need to Make a database [project's name]
 5.open the database then import the database from the file you downloaded.
 6.Now serch this on your searchbar: http://localhost/VEHICLE_RENTAL_MANAGEMENT_SYSTEM/adminpage.php
+ 
